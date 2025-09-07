@@ -97,7 +97,7 @@ def main():
    print(f"Final Result B: {result_b}")
 
    print("\n--- Running with an unclear request ---")
-   request_c = "Tell me about quantum physics."
+   request_c = "Tell me."
    result_c = coordinator_agent.invoke({"request": request_c})
    print(f"Final Result C: {result_c}")
 
