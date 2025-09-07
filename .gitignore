@@ -1,6 +1,9 @@
 # Ignore environment variable files
 .env
 
+# Ignore instruction files
+.git_instruction
+
 # Ignore virtual environments
 venv/
 
