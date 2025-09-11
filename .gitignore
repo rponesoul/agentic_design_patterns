@@ -4,6 +4,9 @@
 # Ignore instruction files
 .git_instruction
 
+# Ignore non-working files
+parallelization_google_adk.py
+
 # Ignore virtual environments
 venv/
 
